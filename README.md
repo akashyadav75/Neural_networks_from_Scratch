@@ -7,14 +7,20 @@ This repository contains implementations of various neural network algorithms bu
 1.  **[Getting Started](#getting-started)**
 2.  **[Implemented Algorithms](#implemented-algorithms)**
 3.  **[How to Use](#how-to-use)**
-4.  **[Contributing](#contributing)**
-5.  **[License](#license)**
+
+
 
 ---
 
 ### Getting Started
 
 To get started, clone this repository:
-
 ```bash
-git clone [https://github.com/akashyadav75/Neural_networks_from_Scratch.git](https://github.com/akashyadav75/Neural_networks_from_Scratch.git)
+git clone [https://github.com/your-username/neural-networks-from-scratch.git](https://github.com/your-username/neural-networks-from-scratch.git)
+
+
+
+
+
+
+
